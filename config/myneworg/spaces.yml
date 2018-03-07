@@ -1,0 +1,4 @@
+org: myneworg
+spaces:
+- mynewspace
+enable-delete-spaces: true
