@@ -1,4 +1,6 @@
 org: myneworg
 spaces:
 - mynewspace
+- anotherspace
+- thirdspace
 enable-delete-spaces: true
